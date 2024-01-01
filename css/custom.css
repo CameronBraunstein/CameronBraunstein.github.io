@@ -33,3 +33,7 @@
 body {
     background-color: #8bccf2;
   }
+
+  img {
+    border-radius: 10px;
+  }
